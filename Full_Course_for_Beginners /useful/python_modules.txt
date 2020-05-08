@@ -1,0 +1,10 @@
+https://docs.python.org/3/py-modindex.html
+
+- Will likely have a module that you can use
+- Mostly functions and variables
+- Instructions show how to import modules
+
+
+Want 3rd-Party Modules?
+- Chances are, someone has already written them
+- There's a large community of Python programmers
