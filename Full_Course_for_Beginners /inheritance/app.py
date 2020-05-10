@@ -8,4 +8,4 @@
 from chineseChef import ChineseChef
 
 myChineseChef = ChineseChef()
-myChineseChef.make_special_dish()
+myChineseChef.make_chicken()

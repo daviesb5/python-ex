@@ -1,13 +1,9 @@
-intro = "The chef makes "
+from chef import Chef
+
+# intro = "The chef makes "
 
 
-class ChineseChef:
-
-    def make_chicken(self):
-        print(intro + "a chicken")
-
-    def make_salad(self):
-        print(intro + "a salad")
+class ChineseChef(Chef):
 
     def make_special_dish(self):
         print(intro + "orange chicken")

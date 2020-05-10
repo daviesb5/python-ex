@@ -1,4 +1,4 @@
-intro = "The chef makes "
+intro = "\nThe chef makes "
 
 
 class Chef:
